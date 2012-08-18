@@ -2,4 +2,12 @@
 Changelog
 ---------
 
-
+8.17.2012
+  * Installed SourceMod via NFOServer autoinstaller. This updated:
+    - tf/gameinfo.txt
+    - tf/logs (not important)
+    - tf/addons folder (previously nonexistent)
+        - tf/addons/metamod (not checked into source, this should never be touched outside of SM install)
+        - tf/addons/sourcemod (did not check in txt files, directories we should never touch)
+            - these include bin, data, extensions, gamedata
+    - tf/cfg folder
