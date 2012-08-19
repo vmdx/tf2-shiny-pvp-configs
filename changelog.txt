@@ -4,7 +4,7 @@ Changelog
 
 8.19.2012
   * Mav started using github
-
+  * Added quickplaymatching
 
 8.17.2012
   * Installed SourceMod via NFOServer autoinstaller. This updated:
