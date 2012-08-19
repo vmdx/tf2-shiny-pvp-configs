@@ -6,7 +6,7 @@ Changelog
   * Mav started using github
   * Added quickplaymatching
   * Changed the map cycle to purely valve maps via the nfo control panel
-
+  * Added hlstats http://crown.hlstatsx.nfoservers.com/hlstats.php
 
 8.17.2012
   * Installed SourceMod via NFOServer autoinstaller. This updated:
