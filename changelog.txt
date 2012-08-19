@@ -2,6 +2,10 @@
 Changelog
 ---------
 
+8.19.2012
+  * Mav started using github
+
+
 8.17.2012
   * Installed SourceMod via NFOServer autoinstaller. This updated:
     - tf/gameinfo.txt
