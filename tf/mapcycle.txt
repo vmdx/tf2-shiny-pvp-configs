@@ -1,1 +1,9 @@
+cp_dustbowl
+pl_badwater
+cp_steel
+koth_sawmill
+cp_gravelpit
+koth_nucleus
+plr_hightower
+pl_barnblitz
 koth_king
