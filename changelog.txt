@@ -7,6 +7,10 @@ Changelog
   * Added quickplaymatching
   * Changed the map cycle to purely valve maps via the nfo control panel
   * Added hlstats http://crown.hlstatsx.nfoservers.com/hlstats.php
+  * Added deadchat 
+  * Added ads
+  * set up contact email crownfruitparlor@gmail.com password: Gooseplant to forward requests to what ever email you wish
+  * maxrounds = 3 timelimit = 60 (So the maps rotate and if a server killer map kills the server it should rotate through)
 
 8.17.2012
   * Installed SourceMod via NFOServer autoinstaller. This updated:
