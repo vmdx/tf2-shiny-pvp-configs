@@ -1,6 +1,20 @@
+----
+TODO
+----
+  * Add more maps
+  * ExtendedComms plugin for timebased mute/gag
+  * DeadChat plugin
+  * Votescramble plugin
+  * Some way to call votemutes, but not via the old Custom Voting plugin.
+    - I suspect that broke stuff.
+
 ---------
 Changelog
 ---------
+
+8.29.2012
+  * Added mapchooser, nominations, and rtv
+  * 4 reserve slots enabled
 
 8.19.2012
   * Mav started using github
